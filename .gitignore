@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.spotify_cache*
+.cache*
+spotify_followed_artists_*.txt
+spotify_followed_artists_*.xlsx
+.git.empty-backup
