@@ -9,3 +9,11 @@ __pycache__/
 spotify_followed_artists_*.txt
 spotify_followed_artists_*.xlsx
 .git.empty-backup
+
+output/
+edm-artists.txt
+edm-artists.json
+followed_artists.txt
+.idea/workspace.xml
+.idea/shelf/
+.ruff_cache/

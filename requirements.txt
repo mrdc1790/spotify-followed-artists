@@ -1,2 +1,2 @@
-spotipy
-openpyxl
+spotipy==2.26.0
+openpyxl==3.1.5

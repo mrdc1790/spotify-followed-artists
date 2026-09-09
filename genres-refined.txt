@@ -1,0 +1,2773 @@
+acid house: 1
+  - The Future Sound Of London
+
+acid rock: 1
+  - Psychedelic Porn Crumpets
+
+afro house: 1
+  - Guri & Eider
+
+alt country: 2
+  - My Morning Jacket
+  - Wilco
+
+alternative dance: 5
+  - Crystal Castles
+  - LCD Soundsystem
+  - NAYAN
+  - Portyl
+  - The Chemical Brothers
+
+alternative hip hop: 32
+  - Aesop Rock
+  - Armand Hammer
+  - Atmosphere
+  - Black Milk
+  - Blu & Exile
+  - Clear Soul Forces
+  - clipping.
+  - Danny Brown
+  - Earl Sweatshirt
+  - Freddie Gibbs
+  - Homeboy Sandman
+  - iAMLYRIC
+  - Injury Reserve
+  - J A Y E L E C T R O N I C A
+  - K-OS
+  - Ka
+  - Kemba
+  - Killer Mike
+  - LOGS
+  - Mach-Hommy
+  - MAVI
+  - MF DOOM
+  - Mr. Muthafuckin' eXquire
+  - Navy Blue
+  - Open Mike Eagle
+  - Ovrkast.
+  - R.A.P. Ferreira
+  - redveil
+  - Rob Sonic
+  - The Alchemist
+  - TOBi
+  - Wiki
+
+alternative r&b: 5
+  - Choker
+  - FKA twigs
+  - Hiatus Kaiyote
+  - Noname
+  - The Internet
+
+alternative rock: 2
+  - Radiohead
+  - The Strokes
+
+ambient: 18
+  - Aeroc
+  - Boards of Canada
+  - Dictaphone
+  - DjRUM
+  - Jon Hopkins
+  - Kettel
+  - Kiln
+  - Nils Frahm
+  - Ochre
+  - Ocoeur
+  - Ott
+  - Proem
+  - Secede
+  - The Flashbulb
+  - The Future Sound Of London
+  - The Orb
+  - Tycho
+  - Yimino
+
+ambient jazz: 2
+  - CVN
+  - Floating Points
+
+americana: 1
+  - Wilco
+
+aor: 1
+  - Rush
+
+arabic hip hop: 1
+  - Jeed
+
+art pop: 5
+  - FKA twigs
+  - Moses Sumney
+  - Quadeca
+  - SPELLLING
+  - Weyes Blood
+
+art rock: 5
+  - Black Country, New Road
+  - Camel
+  - Electric Light Orchestra
+  - Geese
+  - Radiohead
+
+baroque pop: 6
+  - Arcade Fire
+  - Florence + The Machine
+  - SPELLLING
+  - Sufjan Stevens
+  - Vampire Weekend
+  - Weyes Blood
+
+bass house: 20
+  - Arya
+  - Axel Boy
+  - Chris Lake
+  - Claybrook
+  - Crankdat
+  - Dr. Fresch
+  - Eliminate
+  - Gentlemens Club
+  - Hydraulix
+  - ISOxo
+  - Jauz
+  - JOYRYDE
+  - Less Lethal
+  - MPH
+  - MUST DIE!
+  - RemK
+  - Space Laces
+  - SPORTMODE
+  - TYNAN
+  - WINK
+
+bass music: 330
+  - 12th Planet
+  - 2TD
+  - 58DUST
+  - 5AM
+  - Ace Aura
+  - Acyan
+  - AG
+  - AHEE
+  - Alejo
+  - Alexis B
+  - Alix Perez
+  - Alydian
+  - An-Ten-Nae
+  - Ancestyr
+  - Andreilien
+  - Arboreal
+  - Ashez
+  - ATLiens
+  - ATYYA
+  - Audio Goblin
+  - Backleft
+  - Baclash
+  - BARELY ALIVE
+  - Bass Temple
+  - Bassnectar
+  - BAW
+  - beastboi.
+  - Bemah
+  - Blurrd Vzn
+  - BoggDogg
+  - Bogtrotter
+  - Boogie T
+  - borne
+  - Brainable
+  - BRAINWAVEZ
+  - Bricksquash
+  - Bronze Sun
+  - burnsun
+  - BUTTONZ
+  - Buzz Junior
+  - By Design
+  - Capochino
+  - Carbin
+  - Casey Club
+  - Caspa
+  - Champagne Drip
+  - Chandelier
+  - charles nimbus
+  - CharlestheFirst
+  - Chee
+  - Chef Boyarbeatz
+  - CHEMISTREE
+  - Chez
+  - Chime
+  - Chmura
+  - Chozen
+  - Claybrook
+  - Clench
+  - Clockvice
+  - cloud_d
+  - Comisar
+  - Common Creation
+  - Computa
+  - Conrank
+  - Cool Customer
+  - COPYCATT
+  - Cozy Kev
+  - crawdad sniper
+  - Culprate
+  - Cut Rugs
+  - C�NTRA
+  - Daeya
+  - Daggz
+  - Dancemyth
+  - Dank Frank
+  - Danny Grooves
+  - DARK MATTER
+  - Deathpact
+  - DELTAnine
+  - Detox Unit
+  - DiCE MaN
+  - Dirt Monkey
+  - Dirtyphonics
+  - DirtySnatcha
+  - Disciple
+  - Dmtree
+  - DMVU
+  - Droflam
+  - DRRTYWULVZ
+  - Duffrey
+  - d�tre
+  - EAZYBAKED
+  - Effin
+  - Efriend
+  - eliderp
+  - Eliminate
+  - Eos
+  - Eprom
+  - Esseks
+  - Evalution
+  - Excision
+  - Feelmonger
+  - Ferrofluid
+  - Fika
+  - Flintwick
+  - Floret Loret
+  - Flozone
+  - FLY
+  - Franky Nuts
+  - FRAXURE
+  - Freddy Todd
+  - Frequent
+  - Fryar
+  - G Jones
+  - G-Space
+  - Gallium
+  - Ganja White Night
+  - Gardella
+  - Ghost Lotus
+  - GorillaT
+  - Green Matter
+  - Gunpoint
+  - Hairitage
+  - Havoc
+  - hawk.
+  - Herbalistek
+  - HEXED
+  - Heyz
+  - Hobi
+  - Homemade Spaceship
+  - Hostage Situation
+  - Huck.Jorris
+  - Hudson Lee
+  - Hullabalo0
+  - Humandala
+  - Hydraulix
+  - HYPERLIGHT
+  - IDHS
+  - ill.gates
+  - illanthropy
+  - illoh
+  - Ivy Lab
+  - Jade Cicada
+  - Jaenga
+  - Jantsen
+  - Jkyl & Hyde
+  - Jon Casey
+  - Jon1st
+  - jonteal
+  - Josh Teed
+  - Just John
+  - K.L.O.
+  - kaito.
+  - Keota
+  - Kill Safari
+  - Kimati
+  - kLL Bill
+  - kLL sMTH
+  - Kloud Forest
+  - KOAN Sound
+  - Kozmoz
+  - Kromuh
+  - Kursa
+  - Lab Rat
+  - Laika Beats
+  - Lavier
+  - Leotrix
+  - Liquid Stranger
+  - Lowcation
+  - LSDREAM
+  - Lucid Slip
+  - Lumasi
+  - LUZCID
+  - LYNY
+  - M?STIC
+  - MAKENIX
+  - Mayple
+  - Medicine Place
+  - Merricat Black
+  - Mersiv
+  - MeSo
+  - Mindex
+  - Minnesota
+  - Mocha Music
+  - Moore Kismet
+  - Mousai
+  - Mport
+  - Mr Jennings
+  - Mr. Bill
+  - MUERTE
+  - Murkury
+  - MUST DIE!
+  - MYRIAS
+  - Mystic Grizzly
+  - Navigatorz
+  - Noetika
+  - not yes
+  - Nyquist
+  - Of The Trees
+  - OkayJake
+  - Oliverse
+  - Omnist
+  - Ooga
+  - Oolacile
+  - Oski
+  - Ovoid
+  - Ozztin
+  - Papa Khan
+  - Paper Skies
+  - Patches.
+  - PEEKABOO
+  - Perkulat0r
+  - pheel.
+  - Phocust
+  - Phrva
+  - Phurn
+  - PIERCE
+  - Potions
+  - Raaket
+  - Ravenscoon
+  - REAL
+  - Resonant Language
+  - RJ-WLKR
+  - rSUN
+  - Saka
+  - Saturna
+  - Schmoop
+  - SCHMUX
+  - Secret Recipe
+  - Sepia
+  - Seppa
+  - Seth David
+  - SEVSKY
+  - sfam
+  - Shades
+  - Shanghai Doom
+  - Sharks
+  - Sharlitz Web
+  - Shlump
+  - shwiLLy
+  - SIPPY
+  - SKEEMUH
+  - Skellytn
+  - Skiz
+  - Skope
+  - Skybreak
+  - Skysia
+  - Slang Dogs
+  - Smigonaut
+  - smith.
+  - Smoakland
+  - Sol Good
+  - Sonorous
+  - Sortof Vague
+  - Space Laces
+  - Space Wizard
+  - SpaceYeti
+  - SPORTMODE
+  - STARFOX
+  - Stasys
+  - Steller
+  - Stevie Nova
+  - STUCA
+  - STVSH
+  - Stylust
+  - SubDocta
+  - Subtronics
+  - Sully
+  - sumthin sumthin
+  - Super Future
+  - SuperAve.
+  - Supertask
+  - Swomp
+  - Syzy
+  - Tape B
+  - Templo
+  - Ternion Sound
+  - thook
+  - Thought Process
+  - Thred
+  - tiedye ky
+  - Tipper
+  - Toadface
+  - Tripp St.
+  - Truth
+  - Tsuruda
+  - TVBOO
+  - Two Guys
+  - Twopercent
+  - Tygris
+  - TYNAN
+  - Typhon
+  - Ugly Lungs
+  - Ultrasloth
+  - VCTRE
+  - Venture 5
+  - Virtual Riot
+  - VIRX
+  - Visages
+  - Viskus
+  - Vistuh
+  - voljum
+  - Voltra
+  - Vorso
+  - Vyhara
+  - Walter Wilde
+  - Wiley
+  - Willdabeast
+  - WINK
+  - Wodd
+  - Wolf-e-Wolf
+  - Wonky Llama
+  - WonkyWilla
+  - Woofax
+  - Wooli
+  - XaeboR
+  - Xenotype
+  - Xotix
+  - Yewz
+  - Yheti
+  - YILO
+  - yojas
+  - Yoko
+  - YOOKiE
+  - Zebbler Encanti Experience
+  - ZEKE BEATS
+  - Zen Selekta
+  - Zingara
+  - Zomboy
+  - ZURGLIN
+
+bassline: 8
+  - Axel Boy
+  - Casey Club
+  - Claybrook
+  - Friction
+  - Gentlemens Club
+  - Hedex
+  - Kanine
+  - MPH
+
+bedroom pop: 6
+  - Dreamer Boy
+  - LAUNDRY DAY
+  - Matt Champion
+  - Men I Trust
+  - Still Woozy
+  - Wallice
+
+big beat: 6
+  - Andy Page
+  - Beber
+  - Freq Nasty
+  - The Chemical Brothers
+  - The Future Sound Of London
+  - Tsunami One
+
+boogie: 1
+  - WESTSIDE BOOGIE
+
+boom bap: 18
+  - Apollo Brown
+  - Asun Eastwood
+  - Benny The Butcher
+  - BlabberMouf
+  - Chino XL
+  - El Gant
+  - Elzhi
+  - Evidence
+  - Finn
+  - Ill Conscious
+  - Jericho Jackson
+  - Mach-Hommy
+  - Ransom
+  - Rome Streetz
+  - Skyzoo
+  - The Alchemist
+  - Torae
+  - UFO Fev
+
+brass band: 1
+  - Moon Hooch
+
+breakbeat: 19
+  - Andy Page
+  - Beber
+  - canary yellow
+  - charles nimbus
+  - Danny Breaks
+  - DjRUM
+  - EVAC
+  - Freq Nasty
+  - Hydraulix
+  - Iterate
+  - Jon1st
+  - LTJ Bukem
+  - not yes
+  - Pizza Hotline
+  - Skeetaz
+  - The Chemical Brothers
+  - The Future Sound Of London
+  - Tom VR
+  - Tsunami One
+
+breakcore: 4
+  - LTJ Bukem
+  - Pizza Hotline
+  - Starjunk 95
+  - The Flashbulb
+
+chillstep: 27
+  - Adventure Club
+  - Au5
+  - Beatcore
+  - BH
+  - Blackmill
+  - Blue Sky Black Death
+  - Coyote Kisses
+  - Cutline
+  - Emancipator
+  - Eminus
+  - IHF
+  - Klimeks
+  - KOAN Sound
+  - Minnesota
+  - Mr FijiWiji
+  - Mr. Welch
+  - Mt. Eden
+  - Netsky
+  - ODESZA
+  - Philia
+  - Phutureprimitive
+  - Purity Ring
+  - Seven Lions
+  - Skrux
+  - Toy Box
+  - Trifonic
+  - Xilent
+
+chillwave: 39
+  - Baths
+  - Beat Connection
+  - bl00dwave
+  - Blackbird Blackbird
+  - Blank Banshee
+  - Brothertiger
+  - Casa del Mirto
+  - Chad Valley
+  - Chrome Sparks
+  - Com Truise
+  - Craft Spells
+  - Dreaming Diary
+  - Futurecop!
+  - Germany Germany
+  - Giraffage
+  - Home
+  - Keep Shelly In Athens
+  - Korizon
+  - Ko�
+  - Memory Tapes
+  - Memoryhouse
+  - Millionyoung
+  - Moss Of Aura
+  - Neon Indian
+  - Noble Oak
+  - ODESZA
+  - Slow Magic
+  - Small Black
+  - Southern Shores
+  - Sun Glitters
+  - Surfing
+  - Teen Daze
+  - The Midnight
+  - The Northern Lights
+  - Toro y Moi
+  - Tycho
+  - VAPERROR
+  - Washed Out
+  - Work Drugs
+
+christian: 1
+  - indie tribe
+
+christian edm: 1
+  - Phocust
+
+christian hip hop: 3
+  - indie tribe
+  - Propaganda
+  - Tobe Nwigwe
+
+christian r&b: 1
+  - indie tribe
+
+classic rock: 3
+  - Rush
+  - Steely Dan
+  - The Alan Parsons Project
+
+cloud rap: 5
+  - $uicideboy$
+  - Friendzone
+  - Pouya
+  - Weiland
+  - Young God
+
+contemporary classical: 1
+  - Nils Frahm
+
+cool jazz: 1
+  - Steve Cole
+
+country hip hop: 1
+  - Yelawolf
+
+crunk: 1
+  - An-Ten-Nae
+
+dark ambient: 1
+  - REMNANT.exe
+
+darkwave: 6
+  - CASHFORGOLD
+  - enjoii
+  - Mr.Kitty
+  - MYSTXRIVL
+  - Pastel Ghost
+  - Sidewalks and Skeletons
+
+deathstep: 59
+  - 12th Planet
+  - Ace Aura
+  - ATLiens
+  - BARELY ALIVE
+  - BAW
+  - beastboi.
+  - Carbin
+  - Celestial Void
+  - CELO
+  - Chime
+  - Crankdat
+  - Daeya
+  - Datsik
+  - Dirtyphonics
+  - Disciple
+  - DOIL
+  - Effin
+  - Eliminate
+  - Excision
+  - Franky Nuts
+  - FRAXURE
+  - Hairitage
+  - Jkyl & Hyde
+  - Kenetic Kannibalz
+  - Kill Safari
+  - Kozmoz
+  - Leotrix
+  - LEVEL UP
+  - MAKENIX
+  - MUERTE
+  - MUST DIE!
+  - OMAS
+  - Oolacile
+  - Panda Eyes
+  - Phocust
+  - PIERCE
+  - RIOT
+  - Sharks
+  - Space Laces
+  - SpaceYeti
+  - Spookybro
+  - STUCA
+  - Subtronics
+  - Syzy
+  - Teminite
+  - The Arcturians
+  - Thred
+  - THREE PUX
+  - TYNAN
+  - Typhon
+  - Virtual Riot
+  - Voltra
+  - Walter Wilde
+  - Wodd
+  - Wooli
+  - XaeboR
+  - YKES
+  - YOOKiE
+  - Zomboy
+
+deep house: 3
+  - Dusky
+  - Lane 8
+  - Rico 56
+
+disco house: 2
+  - A-Trak
+  - SHEE
+
+djent: 1
+  - Polyphia
+
+downtempo: 120
+  - 3420
+  - 5AM
+  - Ageless
+  - Akasha Experience
+  - Alex Unger
+  - Amon Tobin
+  - Arcturus
+  - ATYYA
+  - Be Right Back
+  - Benji Robot
+  - Blockhead
+  - Blue Sky Black Death
+  - Boards of Canada
+  - Bogtrotter
+  - Bonobo
+  - Bread Winner
+  - Bwoy De Bhajan
+  - Catching Flies
+  - CharlestheFirst
+  - Chmura
+  - Chris Komus
+  - Comisar
+  - Corporeal
+  - Correctional Facilities
+  - Cosmic Trigger
+  - Craftal
+  - Crunch
+  - Cualli
+  - DeemZoo
+  - Dillard
+  - DRRTYWULVZ
+  - Duffrey
+  - Dysfunctional Family
+  - Easyjack
+  - Ekorce
+  - Emancipator
+  - Entangled Mind
+  - Eos
+  - Erothyme
+  - ESCPE
+  - EurythmY
+  - Faelow
+  - Fika
+  - Foxtail
+  - Ghost Approach
+  - Globular
+  - Goosebumpz
+  - Gramatik
+  - Halfred
+  - Hedflux
+  - Hidden Orchestra
+  - Hoopla
+  - Huck.Jorris
+  - Hypnagog
+  - il:lo
+  - illoh
+  - Ion Driver
+  - Kalya Scintilla
+  - Kaminanda
+  - KiloWatts
+  - Kodomo
+  - Land Switcher
+  - Liquid Stranger
+  - Little People
+  - Lone
+  - Lowcation
+  - LTJ Bukem
+  - Malakai
+  - MantisMash
+  - Mental Extensions
+  - Metaform
+  - Mfinity
+  - Mindex
+  - Mindtality
+  - Mize
+  - Mumukshu
+  - Nanosphere
+  - Osmetic
+  - Ott
+  - Ovoid
+  - parkbreezy
+  - pheel.
+  - Phurn
+  - Potions
+  - Prefuse 73
+  - Quanta
+  - Relativity Lounge
+  - Rena Jones
+  - Rhizomorphic
+  - RJD2
+  - Rumpistol
+  - Saturna
+  - Seeded Vision
+  - Shlohmo
+  - Shwamp
+  - Shwex
+  - Sixis
+  - Skysia
+  - Smigonaut
+  - Snilk
+  - Somatoast
+  - Soulacybin
+  - Spoonbill
+  - Spundose
+  - Supersillyus
+  - Supertask
+  - Swomp
+  - Telefon Tel Aviv
+  - Templo
+  - TF Marz
+  - The Depths
+  - Thought Process
+  - Tipper
+  - Trifonic
+  - Tycho
+  - Tye.
+  - Whitebear
+  - Yimino
+  - Younger Brother
+  - Zonra
+
+dream pop: 14
+  - Brothertiger
+  - Casa del Mirto
+  - Craft Spells
+  - Deerhunter
+  - Keep Shelly In Athens
+  - Melody's Echo Chamber
+  - Memory Tapes
+  - Memoryhouse
+  - Men I Trust
+  - Millionyoung
+  - Reptaliens
+  - Small Black
+  - Washed Out
+  - Work Drugs
+
+drift phonk: 5
+  - Bad Smith
+  - LXST CXNTURY
+  - Satvrn
+  - Skeler
+  - Tokyo Tears
+
+drone: 2
+  - Kiln
+  - Ocoeur
+
+drum and bass: 39
+  - 1991
+  - A Little Sound
+  - Alix Perez
+  - Arcando
+  - Axel Boy
+  - Blue Marble
+  - Camo & Krooked
+  - Culprate
+  - Culture Shock
+  - Cutline
+  - Danny Breaks
+  - Delta Heavy
+  - Dimension
+  - Dirtyphonics
+  - DNMO
+  - Fox Stevenson
+  - Friction
+  - Gentlemens Club
+  - Ghost in Real Life
+  - Grafix
+  - Hedex
+  - Hybrid Minds
+  - IMANU
+  - Ivy Lab
+  - Justin Hawkes
+  - Kanine
+  - LTJ Bukem
+  - Montell2099
+  - Monty
+  - Netsky
+  - Oliverse
+  - Pizza Hotline
+  - REAPER
+  - Rusko
+  - Skellytn
+  - Sub Focus
+  - Teddy Killerz
+  - Visages
+  - Vorso
+
+drumstep: 92
+  - 58DUST
+  - Alejo
+  - Alix Perez
+  - Andreilien
+  - Au5
+  - BARELY ALIVE
+  - Camo & Krooked
+  - Chee
+  - Chime
+  - Clockvice
+  - COPYCATT
+  - crawdad sniper
+  - Crunch
+  - Culprate
+  - Cut Rugs
+  - Cutline
+  - Danny Grooves
+  - Datsik
+  - Delta Heavy
+  - Dewpoint
+  - Dirtyphonics
+  - Doctor P
+  - Ekcle
+  - eliderp
+  - Eprom
+  - Fervor
+  - Floret Loret
+  - Fox Stevenson
+  - Frequent
+  - G Jones
+  - Ginseng
+  - GUNK
+  - Henderson Row
+  - Hudson Lee
+  - Hullabalo0
+  - Humandala
+  - IMANU
+  - Ivy Lab
+  - Jon1st
+  - K.L.O.
+  - Keota
+  - kLL Bill
+  - kLL sMTH
+  - KOAN Sound
+  - Kromuh
+  - Kursa
+  - Lucid Slip
+  - Mad Zach
+  - Maxfield
+  - Monty
+  - Mr. Bill
+  - Navigatorz
+  - not yes
+  - NUEQ
+  - Omnist
+  - Ooga
+  - Panda Eyes
+  - Pegboard Nerds
+  - Psydell
+  - REAPER
+  - Resonant Language
+  - Restraint
+  - Rogue
+  - Rootkit
+  - Saka
+  - Schmoop
+  - Seppa
+  - Shades
+  - Shep.
+  - Skellytn
+  - Skope
+  - Smigonaut
+  - smokeA:M
+  - Sqonk
+  - Teddy Killerz
+  - Teminite
+  - Ternion Sound
+  - thook
+  - Truth
+  - Tsuruda
+  - Tygris
+  - Ultrasloth
+  - VCTRE
+  - Virtual Riot
+  - Visages
+  - voljum
+  - Vorso
+  - Wonky Llama
+  - Xilent
+  - ZEKE BEATS
+  - Zomboy
+  - ZZY
+
+dub: 32
+  - 12th Planet
+  - Akasha Experience
+  - BARELY ALIVE
+  - Bassnectar
+  - Boogie T
+  - Caspa
+  - Chef Boyarbeatz
+  - Cutline
+  - Datsik
+  - Dirt Monkey
+  - Doctor P
+  - Emalkay
+  - EurythmY
+  - Excision
+  - Flux Pavilion
+  - Ganja White Night
+  - Globular
+  - Heyoka
+  - Land Switcher
+  - Liquid Stranger
+  - MantisMash
+  - NERO
+  - Quanta
+  - Rusko
+  - Sepia
+  - Soulacybin
+  - Space Laces
+  - Subtronics
+  - Ternion Sound
+  - Truth
+  - Virtual Riot
+  - Zomboy
+
+dub techno: 3
+  - DjRUM
+  - J.K.
+  - Kiln
+
+dubstep: 225
+  - 12th Planet
+  - 2TD
+  - Ace Aura
+  - Adventure Club
+  - AG
+  - AHEE
+  - Alexis B
+  - ALLEYCVT
+  - ATLiens
+  - Au5
+  - Austeria
+  - Axel Boy
+  - BARELY ALIVE
+  - Bassnectar
+  - BAW
+  - beastboi.
+  - Beatcore
+  - BH
+  - Biosyrup
+  - Blackmill
+  - Blanke
+  - Blurrd Vzn
+  - Boogie T
+  - Boombox Cartel
+  - borne
+  - Brainable
+  - Buku
+  - Camo & Krooked
+  - Capochino
+  - Carbin
+  - Casey Club
+  - Caspa
+  - Celestial Void
+  - CELO
+  - Champagne Drip
+  - Chee
+  - Chef Boyarbeatz
+  - Chime
+  - Claybrook
+  - Clockvice
+  - ColBreakz
+  - Computa
+  - Conrank
+  - Crankdat
+  - Culprate
+  - Cutline
+  - Daeya
+  - Dank Frank
+  - DARK MATTER
+  - Datsik
+  - Deathpact
+  - Delta Heavy
+  - Dennett
+  - Dirt Monkey
+  - Dirtyphonics
+  - DirtySnatcha
+  - Disciple
+  - DMVU
+  - Doctor P
+  - DOIL
+  - Droflam
+  - d�tre
+  - EAZYBAKED
+  - Effin
+  - eliderp
+  - Eliminate
+  - Emalkay
+  - Eprom
+  - Esseks
+  - Evalution
+  - Excision
+  - Feed Me
+  - Flosstradamus
+  - Flozone
+  - Flux Pavilion
+  - FLY
+  - Fox Stevenson
+  - Franky Nuts
+  - FRAXURE
+  - Fryar
+  - Ganja White Night
+  - Gardella
+  - Gentlemens Club
+  - Getter
+  - Ghost Lotus
+  - GorillaT
+  - Green Matter
+  - GRiZ
+  - Gunpoint
+  - Hairitage
+  - Heyoka
+  - Heyz
+  - Hostage Situation
+  - Hydraulix
+  - IDHS
+  - ill.gates
+  - IYFFE
+  - Jaenga
+  - Jantsen
+  - Jauz
+  - Jkyl & Hyde
+  - KAIME
+  - Kenetic Kannibalz
+  - Kill Safari
+  - KOAN Sound
+  - Kozmoz
+  - Kursa
+  - KVN
+  - Leotrix
+  - LEVEL UP
+  - Levity
+  - Liquid Stranger
+  - LIU KANG
+  - Lookas
+  - LSDREAM
+  - Lumasi
+  - LUZCID
+  - MACHAKI
+  - MAKENIX
+  - Medicine Place
+  - Merricat Black
+  - Mersiv
+  - MeSo
+  - Minnesota
+  - Monstercat
+  - Moore Kismet
+  - Mport
+  - Mr. Bill
+  - Mr. Projectile
+  - Mr. Welch
+  - Mt. Eden
+  - MUERTE
+  - MUST DIE!
+  - MYRIAS
+  - NEOTEK
+  - NERO
+  - NGHTMRE
+  - Nivlem
+  - Noetika
+  - Oliverse
+  - Oolacile
+  - Oski
+  - Panda Eyes
+  - Papa Khan
+  - Paper Skies
+  - PEEKABOO
+  - Pegboard Nerds
+  - Phocust
+  - Phrva
+  - PIERCE
+  - Pixel Terror
+  - Pretty Sweet
+  - Ravenscoon
+  - REAPER
+  - RIOT
+  - Rogue
+  - Rusko
+  - Saka
+  - Sepia
+  - Seth David
+  - Seven Lions
+  - sfam
+  - Shades
+  - Shanghai Doom
+  - Sharks
+  - Shizz Lo
+  - Shlump
+  - SIPPY
+  - Skope
+  - Skrillex
+  - Skybreak
+  - Slang Dogs
+  - smith.
+  - Smoakland
+  - Space Laces
+  - Space Wizard
+  - SpaceYeti
+  - Spookybro
+  - Steller
+  - STUCA
+  - STVSH
+  - Stylust
+  - SubDocta
+  - Subtronics
+  - Sully
+  - SuperAve.
+  - Syzy
+  - Tape B
+  - Teminite
+  - Ternion Sound
+  - The Arcturians
+  - Thred
+  - THREE PUX
+  - Tokyo Machine
+  - Truth
+  - TVBOO
+  - Twopercent
+  - TYNAN
+  - Typhon
+  - Ugly Lungs
+  - Virtual Riot
+  - Visages
+  - Viskus
+  - Vistuh
+  - Voltra
+  - Walter Wilde
+  - Wavedash
+  - WHOiSEE
+  - Wiley
+  - WINK
+  - Wodd
+  - Wolf-e-Wolf
+  - WonkyWilla
+  - Wooli
+  - XaeboR
+  - Xilent
+  - Xotix
+  - YDG
+  - YKES
+  - YOOKiE
+  - Zeds Dead
+  - ZEKE BEATS
+  - Zingara
+  - Zomboy
+  - ZURGLIN
+
+east coast hip hop: 15
+  - Black Thought
+  - Busta Rhymes
+  - Chino XL
+  - DJ Premier
+  - Homeboy Sandman
+  - JA�-Z
+  - Jedi Mind Tricks
+  - Joell Ortiz
+  - Ka
+  - MF DOOM
+  - Nas
+  - Papoose
+  - Ransom
+  - Skyzoo
+  - The Roots
+
+edm: 38
+  - Adventure Club
+  - Alison Wonderland
+  - ALLEYCVT
+  - ATLiens
+  - Au5
+  - Blanke
+  - Boogie T
+  - Boombox Cartel
+  - Crankdat
+  - Excision
+  - Flux Pavilion
+  - Fred again..
+  - Ganja White Night
+  - GRiZ
+  - ISOxo
+  - Jauz
+  - Kaivon
+  - LEVEL UP
+  - Liquid Stranger
+  - LSDREAM
+  - Madeon
+  - NGHTMRE
+  - Pegboard Nerds
+  - Porter Robinson
+  - RL Grime
+  - SABAI
+  - San Holo
+  - Seven Lions
+  - Skrillex
+  - Space Laces
+  - Subtronics
+  - Tape B
+  - Virtual Riot
+  - Wooli
+  - Yellow Claw
+  - Zeds Dead
+  - ZHU
+  - Zomboy
+
+edm trap: 28
+  - Acyan
+  - Alison Wonderland
+  - All The Reason
+  - Baauer
+  - Boombox Cartel
+  - Buku
+  - Cam the Sella
+  - capshun
+  - CD Project
+  - Flosstradamus
+  - Hex Cougar
+  - ISOxo
+  - Jon Casey
+  - Juelz
+  - Julian Ching
+  - KRANE
+  - Lookas
+  - Lunice
+  - NGHTMRE
+  - Oski
+  - RemK
+  - RL Grime
+  - ROSSY
+  - SPORTMODE
+  - STUCA
+  - Vincent
+  - WINK
+  - Yellow Claw
+
+electro: 2
+  - Skrillex
+  - Thylacine
+
+electro house: 5
+  - Feed Me
+  - Jauz
+  - Pegboard Nerds
+  - Salvo
+  - Xilent
+
+electro swing: 3
+  - Ageless
+  - Gramatik
+  - High Step Society
+
+electroacoustic: 4
+  - Dictaphone
+  - Kiln
+  - Kodak To Graph
+  - Rasmus Fisker
+
+electroclash: 16
+  - 2hollis
+  - akiaura
+  - Crim3s
+  - Crystal Castles
+  - DJ Anemia
+  - Gidropony
+  - Kap Bambino
+  - kimj
+  - LONOWN
+  - Ninajirachi
+  - SALEM
+  - Snow Strippers
+  - Tex Taiwan
+  - tonser
+  - Vandalism
+  - YOU LOVE HER
+
+electronic: 5
+  - Boards of Canada
+  - Bonobo
+  - Porter Robinson
+  - Skrillex
+  - The Chemical Brothers
+
+electronica: 2
+  - Four Tet
+  - Max Cooper
+
+electropop: 1
+  - Madeon
+
+emo rap: 3
+  - $uicideboy$
+  - Night Lovell
+  - Pouya
+
+experimental: 5
+  - clipping.
+  - CVN
+  - Iglooghost
+  - Rasmus Fisker
+  - Woulg
+
+experimental hip hop: 27
+  - Aesop Rock
+  - Armand Hammer
+  - By Storm
+  - Child Actor
+  - clipping.
+  - Danny Brown
+  - Earl Sweatshirt
+  - Fly Anakin
+  - Flying Lotus
+  - Ghais Guevara
+  - Homeboy Sandman
+  - Injury Reserve
+  - Ka
+  - Lando Chill
+  - Mach-Hommy
+  - MAVI
+  - McKinley Dixon
+  - MF DOOM
+  - Navy Blue
+  - Open Mike Eagle
+  - P.O.S
+  - Prefuse 73
+  - R.A.P. Ferreira
+  - redveil
+  - Rob Sonic
+  - The Alchemist
+  - Wiki
+
+folk: 2
+  - Fleet Foxes
+  - Yusuf / Cat Stevens
+
+folk punk: 4
+  - Ceschi
+  - Factor Chandelier
+  - Myles Bullen
+  - Rad Max
+
+folk rock: 2
+  - Jim Croce
+  - Yusuf / Cat Stevens
+
+footwork: 1
+  - Jon1st
+
+free jazz: 1
+  - Badun
+
+french house: 5
+  - Justice
+  - L'Imp�ratrice
+  - Madeon
+  - Mr. Oizo
+  - Uppermost
+
+french indie pop: 1
+  - L'Imp�ratrice
+
+french jazz: 1
+  - Jean-Luc Ponty
+
+french pop: 1
+  - L'Imp�ratrice
+
+funk: 5
+  - Cory Wong
+  - Lettuce
+  - The Floozies
+  - The Motet
+  - Vulfpeck
+
+funk rock: 4
+  - Exmag
+  - Lettuce
+  - Twiddle
+  - Vulfpeck
+
+funkot: 1
+  - MLRTYME
+
+future bass: 78
+  - _skaarup
+  - Adventure Club
+  - Alison Wonderland
+  - Au5
+  - Beatcore
+  - BH
+  - Blanke
+  - Boombox Cartel
+  - capshun
+  - Celestial Void
+  - Charko
+  - Chime
+  - Derpcat
+  - DROELOE
+  - Eastghost
+  - Ekali
+  - Eroir
+  - Filoo
+  - Floret Loret
+  - Flume
+  - Fonss
+  - Giraffage
+  - GRNVLR
+  - Haywyre
+  - Hex Cougar
+  - HOMALS
+  - Inverted Silence
+  - INZO
+  - IYFFE
+  - jarodpanda
+  - Jaron Steele
+  - Juelz
+  - Julian Ching
+  - Just A Gent
+  - Kaivon
+  - Kasbo
+  - KRANE
+  - Laxcity
+  - Lookas
+  - Lucas Radouch
+  - lvndquist
+  - MEMBA
+  - Mona San
+  - Moon Water
+  - Moore Kismet
+  - Mr. Welch
+  - NGHTMRE
+  - Nikademis
+  - OMAS
+  - Papa Khan
+  - Paper Skies
+  - pluko
+  - QUIET BISON
+  - RL Grime
+  - Rogue
+  - Rome in Silver
+  - ROSSY
+  - ROY KNOX
+  - SABAI
+  - SADRN
+  - San Holo
+  - Savick
+  - Seven Lions
+  - Silou
+  - Skrux
+  - Skybreak
+  - So Sus
+  - STAR SEED
+  - sumthin sumthin
+  - Syphour
+  - Thijs Bos
+  - Toy Box
+  - Vincent
+  - Virtual Riot
+  - Wavedash
+  - What So Not
+  - Wooli
+  - yojas
+
+future house: 3
+  - Carl Zeer
+  - Jauz
+  - Salvo
+
+g-house: 2
+  - Dr. Fresch
+  - JOYRYDE
+
+gangster rap: 1
+  - The Game
+
+garage rock: 4
+  - Arctic Monkeys
+  - The Black Angels
+  - The Strokes
+  - Wand
+
+glitch: 173
+  - 5AM
+  - Acid Katz
+  - Ageless
+  - Akasha Experience
+  - Alejo
+  - Alexander Panos
+  - Alydian
+  - An-Ten-Nae
+  - Andreilien
+  - Apparat
+  - Arcturus
+  - Audio Goblin
+  - Backleft
+  - Badun
+  - Benji Robot
+  - Bil Bless
+  - BoggDogg
+  - Bogtrotter
+  - Bran Richards
+  - Bread Winner
+  - Chamberlain
+  - Charko
+  - Chez
+  - Chris Komus
+  - Circuit Bent
+  - Conduit
+  - COPYCATT
+  - Correctional Facilities
+  - Craftal
+  - crawdad sniper
+  - Crunch
+  - Cualli
+  - Culprate
+  - Danny Grooves
+  - Defunk
+  - Detox Unit
+  - Dewpoint
+  - Dictaphone
+  - DRRTYWULVZ
+  - DubCOliNG
+  - Duffrey
+  - Easyjack
+  - Ekcle
+  - Ekorce
+  - eliderp
+  - Eos
+  - Eprom
+  - EurythmY
+  - EVAC
+  - Face Plant
+  - Father Funk
+  - Fika
+  - FiLiBuStA
+  - Flintwick
+  - Flying Lotus
+  - Freddy Todd
+  - Frequent
+  - Funkstatik
+  - G Jones
+  - gonima
+  - Goosebumpz
+  - GUNK
+  - Halfred
+  - headnod
+  - Hedflux
+  - Heyoka
+  - hokey boi
+  - Hoopla
+  - Hudson Lee
+  - Hullabalo0
+  - Humandala
+  - Hypnagog
+  - ibuprofelin
+  - Iglooghost
+  - ill.gates
+  - Illusive Tuna
+  - Iterate
+  - Jade Cicada
+  - jonteal
+  - K+Lab
+  - K.L.O.
+  - Kalya Scintilla
+  - Kaminanda
+  - Kaptain
+  - Kelpe
+  - Kettel
+  - KiloWatts
+  - kLL Bill
+  - kLL sMTH
+  - KOAN Sound
+  - Kursa
+  - Lab Rat
+  - Land Switcher
+  - Malakai
+  - MantisMash
+  - Marvel Years
+  - Maxfield
+  - Michal Menert
+  - Mindex
+  - Mindtality
+  - Mr. Bill
+  - Mumukshu
+  - Nanosphere
+  - Navigatorz
+  - Nimbo
+  - Ochre
+  - Ocoeur
+  - Omnist
+  - Ooga
+  - Opiuo
+  - Osmetic
+  - OVERTONE
+  - Ovoid
+  - Pegboard Nerds
+  - Petals
+  - pheel.
+  - Phutureprimitive
+  - Prefuse 73
+  - Pretty Lights
+  - Proem
+  - Psydell
+  - Quanta
+  - Rasmus Fisker
+  - Rendr
+  - Resonant Language
+  - Restraint
+  - Rhizomorphic
+  - Rhythm Restoration
+  - Roel Funcken
+  - Rumpistol
+  - Schmoop
+  - Seppa
+  - Shlohmo
+  - Shwamp
+  - Shwex
+  - Sixis
+  - Skope
+  - Slynk
+  - Smigonaut
+  - smokeA:M
+  - Snilk
+  - Somatoast
+  - Soulacybin
+  - Spoonbill
+  - Spundose
+  - Sqonk
+  - Stasys
+  - Staunch
+  - Stickybuds
+  - SugarBeats
+  - Sun in Aquarius
+  - Supersillyus
+  - Sweez
+  - Telefon Tel Aviv
+  - Templo
+  - The Flashbulb
+  - Thought Process
+  - tiedye ky
+  - Tipper
+  - Two Guys
+  - Tygris
+  - Ultrasloth
+  - voljum
+  - Vorso
+  - Wassuop
+  - Wessanders
+  - Whitebear
+  - Wonky Llama
+  - Woulg
+  - Yimino
+  - Zebbler Encanti Experience
+  - Zonra
+  - ZZY
+
+gnawa: 1
+  - Floating Points
+
+hard rock: 1
+  - Rush
+
+hardcore: 1
+  - gimmick.
+
+hardcore hip hop: 3
+  - Apathy
+  - Chino XL
+  - Jedi Mind Tricks
+
+hip hop: 15
+  - Apollo Brown
+  - Common
+  - CunninLynguists
+  - Dilated Peoples
+  - Eminem
+  - JA�-Z
+  - Jedi Mind Tricks
+  - Joey Bada$$
+  - Kendrick Lamar
+  - Lil Wayne
+  - Nas
+  - Outkast
+  - Run The Jewels
+  - The Game
+  - The Roots
+
+horrorcore: 6
+  - $uicideboy$
+  - clipping.
+  - Getter
+  - Jedi Mind Tricks
+  - Night Lovell
+  - Pouya
+
+house: 4
+  - Chris Lake
+  - Dusky
+  - Fred again..
+  - John Summit
+
+hyperpop: 10
+  - 2hollis
+  - A. G. Cook
+  - Ethanplus
+  - gonima
+  - Iglooghost
+  - Jaron Steele
+  - kimj
+  - Ninajirachi
+  - pathetic240px
+  - tonser
+
+hyphy: 2
+  - LaRussell
+  - Zion I
+
+idm: 68
+  - Aeroc
+  - Alexander Panos
+  - Alon Mor
+  - Alydian
+  - Amon Tobin
+  - Apparat
+  - Badun
+  - Boards of Canada
+  - Caribou
+  - Circuit Bent
+  - Correctional Facilities
+  - Craftal
+  - Crunch
+  - Culprate
+  - Dictaphone
+  - DjRUM
+  - Echo Map
+  - Ekcle
+  - EVAC
+  - Floating Points
+  - Flying Lotus
+  - Four Tet
+  - Frequent
+  - gonima
+  - Hudson Lee
+  - Iglooghost
+  - Ion Driver
+  - Jon Hopkins
+  - Kelpe
+  - Kettel
+  - Kiln
+  - KiloWatts
+  - Kodomo
+  - Lapalux
+  - Lone
+  - Lorn
+  - Lusine
+  - Max Cooper
+  - Mr. Bill
+  - Mr. Projectile
+  - Nosaj Thing
+  - Ochre
+  - Ocoeur
+  - Olivier Orand
+  - Prefuse 73
+  - Proem
+  - RamonPang
+  - Rasmus Fisker
+  - REAL
+  - Roel Funcken
+  - Rumpistol
+  - Secede
+  - Shigeto
+  - Si Begg
+  - Skeetaz
+  - Stasys
+  - Teebs
+  - Telefon Tel Aviv
+  - The Flashbulb
+  - The Future Sound Of London
+  - The Orb
+  - Tipper
+  - Tom VR
+  - Trifonic
+  - Tycho
+  - Woulg
+  - Yimino
+  - ZZY
+
+indie: 9
+  - alt-J
+  - Arctic Monkeys
+  - Fleet Foxes
+  - GROUPLOVE
+  - MGMT
+  - Passion Pit
+  - Spoon
+  - Tame Impala
+  - Vampire Weekend
+
+indie electronic: 5
+  - Beat Connection
+  - By Storm
+  - Chad Valley
+  - Neon Indian
+  - Purity Ring
+
+indie folk: 1
+  - Fleet Foxes
+
+indie pop: 2
+  - Men I Trust
+  - Wallice
+
+indie rock: 6
+  - alt-J
+  - Arcade Fire
+  - Spoon
+  - The Strokes
+  - The War On Drugs
+  - Wilco
+
+indie soul: 4
+  - Hiatus Kaiyote
+  - Jadu Heart
+  - Moses Sumney
+  - Parcels
+
+j-rap: 1
+  - AKTHESAVIOR
+
+jam band: 34
+  - ALO
+  - Aqueous
+  - Big Head Todd and The Monsters
+  - Big Something
+  - Chalk Dinosaur
+  - Dizgo
+  - Dogs In A Pile
+  - Dopapod
+  - Ekoostik Hookah
+  - Glass Pony
+  - Goose
+  - Jimkata
+  - lespecial
+  - Lettuce
+  - Lotus
+  - moe.
+  - My Morning Jacket
+  - Neighbor
+  - Octave Cat
+  - Papadosio
+  - Shed Bugs
+  - Solar Circuit
+  - Spafford
+  - STS9
+  - SunSquabi
+  - TAUK
+  - The Floozies
+  - The Motet
+  - The Reality Check Experiment
+  - The Werks
+  - Twiddle
+  - Umphrey's McGee
+  - YAM YAM
+  - Zoogma
+
+jazz: 3
+  - Jean-Luc Ponty
+  - Kamasi Washington
+  - Steve Cole
+
+jazz beats: 2
+  - Cloudchord
+  - Poldoore
+
+jazz funk: 6
+  - Cory Wong
+  - Croozshipp
+  - Lettuce
+  - The Motet
+  - Vivid Fever Dreams
+  - YAM YAM
+
+jazz fusion: 6
+  - Anomalie
+  - Cory Wong
+  - Jean-Luc Ponty
+  - Matteo Mancuso
+  - Sungazer
+  - TAUK
+
+jazz house: 2
+  - Barry Can't Swim
+  - Seb Wildblood
+
+jazz rap: 26
+  - 60 East
+  - Avantdale Bowling Club
+  - Blu
+  - Blu & Exile
+  - Common
+  - Deca
+  - Freddie Gibbs
+  - Ill Conscious
+  - Jayy Grams
+  - jev.
+  - Joey Bada$$
+  - Lando Chill
+  - Lase 28
+  - Mach-Hommy
+  - McKinley Dixon
+  - MF DOOM
+  - Mick Jenkins
+  - Navy Blue
+  - Nick Grant
+  - Oddisee
+  - Ovrkast.
+  - R.A.P. Ferreira
+  - Stik Figa
+  - The Alchemist
+  - The Roots
+  - Wakai
+
+jungle: 8
+  - Alix Perez
+  - Danny Breaks
+  - Jon1st
+  - Josh Kye
+  - LTJ Bukem
+  - Monty
+  - Pizza Hotline
+  - Visages
+
+krautrock: 2
+  - Camel
+  - Glass Pony
+
+liquid funk: 22
+  - 1991
+  - A Little Sound
+  - Alix Perez
+  - Blue Marble
+  - Camo & Krooked
+  - Culture Shock
+  - Delta Heavy
+  - Dimension
+  - Friction
+  - Grafix
+  - Hybrid Minds
+  - Ivy Lab
+  - Josh Kye
+  - Justin Hawkes
+  - Kanine
+  - LTJ Bukem
+  - Montell2099
+  - Monty
+  - Netsky
+  - Pizza Hotline
+  - Sub Focus
+  - Visages
+
+lo-fi: 3
+  - Cloudchord
+  - quickly, quickly
+  - TSUKI
+
+lo-fi beats: 6
+  - Chalky
+  - Cloudchord
+  - Cozy Kev
+  - Poldoore
+  - quickly, quickly
+  - Sundreamer
+
+lo-fi hip hop: 4
+  - Chalky
+  - Cloudchord
+  - quickly, quickly
+  - Sundreamer
+
+lo-fi house: 4
+  - Lone
+  - Seb Wildblood
+  - Tom VR
+  - Vyblossom
+
+lo-fi indie: 2
+  - Current Joys
+  - Jhana Boy
+
+math rock: 3
+  - Hikes
+  - Polyphia
+  - Sungazer
+
+melbourne bounce: 1
+  - Lab Rat
+
+melodic bass: 42
+  - Ace Aura
+  - Adventure Club
+  - Au5
+  - AVELLO
+  - Beatcore
+  - BH
+  - Blanke
+  - BuckTen
+  - Celestial Void
+  - Chime
+  - Daeya
+  - Derpcat
+  - Excision
+  - FEELNGS
+  - Hex Cougar
+  - Ian Snow
+  - Jaron Steele
+  - Kade Findley
+  - Kaivon
+  - MAKENIX
+  - Moore Kismet
+  - Mr. Welch
+  - Nikademis
+  - Oliverse
+  - OMAS
+  - OVERTONE
+  - Papa Khan
+  - Paper Skies
+  - ROSSY
+  - ROY KNOX
+  - SABAI
+  - San Holo
+  - Seven Lions
+  - Sharks
+  - Skrux
+  - Skybreak
+  - SpaceYeti
+  - STAR SEED
+  - Vincent
+  - Willdabeast
+  - Woofax
+  - Wooli
+
+melodic house: 3
+  - Black Wands
+  - Catching Shapes
+  - Lane 8
+
+melodic techno: 1
+  - Black Wands
+
+miami bass: 1
+  - Hydraulix
+
+midwest emo: 1
+  - Hikes
+
+minimal techno: 1
+  - Max Cooper
+
+minimalism: 1
+  - Nils Frahm
+
+moombahton: 1
+  - Doctor P
+
+musicals: 1
+  - Daveed Diggs
+
+neo soul: 5
+  - Common
+  - Hiatus Kaiyote
+  - Phonte
+  - Terrace Martin
+  - The Internet
+
+neo-psychedelic: 16
+  - By Storm
+  - Deerhunter
+  - Dumbo Gets Mad
+  - GUM
+  - Khruangbin
+  - King Gizzard & The Lizard Wizard
+  - Melody's Echo Chamber
+  - Mild High Club
+  - Mink Mussel Creek
+  - Pond
+  - Post Animal
+  - Psychedelic Porn Crumpets
+  - Tame Impala
+  - The Black Angels
+  - The Flaming Lips
+  - Wand
+
+neoclassical: 2
+  - John Hayes
+  - Nils Frahm
+
+new rave: 9
+  - Crystal Castles
+  - Deadcrow
+  - FURTHA
+  - Justice
+  - Kap Bambino
+  - LCD Soundsystem
+  - REMNANT.exe
+  - Tex Taiwan
+  - YOU LOVE HER
+
+newgrass: 3
+  - Ekoostik Hookah
+  - moe.
+  - Umphrey's McGee
+
+noise rock: 1
+  - Deerhunter
+
+norwegian pop: 1
+  - Lemaitre
+
+nu disco: 2
+  - Futurecop!
+  - Todd Terje
+
+nu jazz: 16
+  - Ageless
+  - Amon Tobin
+  - Anomalie
+  - Audiophysical
+  - Badun
+  - Blockhead
+  - Bonobo
+  - Complexive
+  - Floex
+  - Flying Lotus
+  - Gramatik
+  - Hidden Orchestra
+  - Poldoore
+  - Pretty Lights
+  - RJD2
+  - Sungazer
+
+old school hip hop: 3
+  - Dilated Peoples
+  - Nas
+  - The Game
+
+organic house: 1
+  - Catching Shapes
+
+phonk: 6
+  - akiaura
+  - Bad Smith
+  - DJ Anemia
+  - LONOWN
+  - LXST CXNTURY
+  - NxxxxxS
+
+plunderphonics: 14
+  - bl00dwave
+  - Blank Banshee
+  - Blockhead
+  - Child Actor
+  - Cut Chemist
+  - death's dynamic shroud
+  - DJ Qbert
+  - Friendzone
+  - NxxxxxS
+  - Pogo
+  - RJD2
+  - Surfing
+  - The Avalanches
+  - VAPERROR
+
+pop punk: 1
+  - Green Day
+
+pop soul: 1
+  - Fulton Lee
+
+post-rock: 2
+  - Black Country, New Road
+  - The Flashbulb
+
+progressive house: 2
+  - Black Wands
+  - Lane 8
+
+progressive metal: 1
+  - Polyphia
+
+progressive rock: 5
+  - Camel
+  - Jean-Luc Ponty
+  - Polyphia
+  - Rush
+  - The Alan Parsons Project
+
+progressive trance: 1
+  - Seven Lions
+
+psychedelic rock: 13
+  - Camel
+  - Dumbo Gets Mad
+  - Glass Pony
+  - GUM
+  - King Gizzard & The Lizard Wizard
+  - Melody's Echo Chamber
+  - Mink Mussel Creek
+  - Pond
+  - Post Animal
+  - Psychedelic Porn Crumpets
+  - The Black Angels
+  - The Reality Check Experiment
+  - Wand
+
+psytrance: 6
+  - Hallucinogen
+  - Hedflux
+  - Hypnagog
+  - Mr. Bill
+  - Whitebear
+  - Younger Brother
+
+punk: 1
+  - Green Day
+
+rally house: 3
+  - Lone
+  - MPH
+  - Starjunk 95
+
+rap: 7
+  - A$AP Rocky
+  - Eminem
+  - J. Cole
+  - JA�-Z
+  - Joey Bada$$
+  - Kanye West
+  - Lil Wayne
+
+retro soul: 1
+  - Jalen Ngonda
+
+riddim: 112
+  - 12th Planet
+  - Ace Aura
+  - AG
+  - AHEE
+  - ALLEYCVT
+  - ATLiens
+  - Austeria
+  - BARELY ALIVE
+  - BAW
+  - beastboi.
+  - Blurrd Vzn
+  - Boogie T
+  - Capochino
+  - Carbin
+  - CELO
+  - Chime
+  - Claybrook
+  - Computa
+  - Conrank
+  - Crankdat
+  - Daeya
+  - Datsik
+  - Deathpact
+  - Dennett
+  - Dirt Monkey
+  - Dirtyphonics
+  - DirtySnatcha
+  - Disciple
+  - Doctor P
+  - DOIL
+  - Effin
+  - eliderp
+  - Eliminate
+  - Excision
+  - Flozone
+  - Franky Nuts
+  - FRAXURE
+  - Ganja White Night
+  - Gardella
+  - Gentlemens Club
+  - GorillaT
+  - Gunpoint
+  - Hairitage
+  - Hostage Situation
+  - Hydraulix
+  - Jkyl & Hyde
+  - Kenetic Kannibalz
+  - Kill Safari
+  - Kozmoz
+  - Leotrix
+  - LEVEL UP
+  - Liquid Stranger
+  - LIU KANG
+  - M?STIC
+  - MACHAKI
+  - MAKENIX
+  - Medicine Place
+  - MIND G4ME
+  - Mport
+  - MUERTE
+  - MUST DIE!
+  - MYRIAS
+  - NEOTEK
+  - Oliverse
+  - Oolacile
+  - Oski
+  - Papa Khan
+  - Paper Skies
+  - PEEKABOO
+  - Phocust
+  - PIERCE
+  - Pretty Sweet
+  - RIOT
+  - sfam
+  - Shanghai Doom
+  - Sharks
+  - Shlump
+  - SIPPY
+  - Skybreak
+  - Space Laces
+  - Space Wizard
+  - SpaceYeti
+  - Spookybro
+  - Steller
+  - STUCA
+  - STVSH
+  - SubDocta
+  - Subtronics
+  - Sully
+  - Syzy
+  - Tape B
+  - THREE PUX
+  - TVBOO
+  - Twopercent
+  - TYNAN
+  - Typhon
+  - Ugly Lungs
+  - Virtual Riot
+  - Voltra
+  - Vysar
+  - Walter Wilde
+  - Wiley
+  - Wodd
+  - Wooli
+  - XaeboR
+  - Xotix
+  - YDG
+  - YKES
+  - YOOKiE
+  - Zentik
+  - Zingara
+  - Zomboy
+
+rock: 1
+  - Rush
+
+roots rock: 1
+  - Big Head Todd and The Monsters
+
+shoegaze: 2
+  - Deerhunter
+  - Memoryhouse
+
+singer-songwriter: 2
+  - Jim Croce
+  - Yusuf / Cat Stevens
+
+smooth jazz: 1
+  - Steve Cole
+
+soft rock: 2
+  - Electric Light Orchestra
+  - Leo Sayer
+
+southern hip hop: 9
+  - Big K.R.I.T.
+  - Bun B
+  - CunninLynguists
+  - Killer Mike
+  - Little Brother
+  - Ludacris
+  - Nappy Roots
+  - Outkast
+  - Yelawolf
+
+space music: 3
+  - Kiln
+  - Kodomo
+  - Ocoeur
+
+space rock: 3
+  - Camel
+  - Glass Pony
+  - The Black Angels
+
+spoken word: 1
+  - Propaganda
+
+stoner rock: 3
+  - Mink Mussel Creek
+  - Psychedelic Porn Crumpets
+  - The Black Angels
+
+stutter house: 8
+  - Disco Lines
+  - edapollo
+  - Fred again..
+  - Koastle
+  - NASAYA
+  - pluko
+  - Rootkit
+  - SHEE
+
+surf rock: 1
+  - ALO
+
+synthpop: 3
+  - CHVRCHES
+  - Futurecop!
+  - The Midnight
+
+synthwave: 14
+  - bl00dwave
+  - Brothertiger
+  - Com Truise
+  - Futurecop!
+  - Germany Germany
+  - Home
+  - Keep Shelly In Athens
+  - Korizon
+  - Magic Sword
+  - The Midnight
+  - The Northern Lights
+  - Trash80
+  - Trey Frey
+  - VAPERROR
+
+tech house: 3
+  - Chris Lake
+  - Friendly Fire
+  - John Summit
+
+trance: 1
+  - Hallucinogen
+
+trap metal: 3
+  - $uicideboy$
+  - Night Lovell
+  - Pouya
+
+trap soul: 1
+  - Landstrip Chip
+
+trip hop: 18
+  - Ageless
+  - Amon Tobin
+  - Blockhead
+  - Blue Sky Black Death
+  - Boards of Canada
+  - Bonobo
+  - Cut Chemist
+  - Danny Breaks
+  - Emancipator
+  - Gramatik
+  - Hidden Orchestra
+  - Little People
+  - Metaform
+  - Poldoore
+  - Prefuse 73
+  - RJD2
+  - The Future Sound Of London
+  - Trifonic
+
+uk garage: 13
+  - Alexis B
+  - borne
+  - canary yellow
+  - Casey Club
+  - charles nimbus
+  - Claybrook
+  - Gentlemens Club
+  - Iterate
+  - Jake Penn
+  - Mary Droppinz
+  - MPH
+  - not yes
+  - SPORTMODE
+
+uk r&b: 1
+  - Josh Kye
+
+underground hip hop: 59
+  - $uicideboy$
+  - 60 East
+  - Add-2
+  - Aesop Rock
+  - Apathy
+  - Apollo Brown
+  - Asun Eastwood
+  - Atmosphere
+  - Black Milk
+  - Blu
+  - Blu & Exile
+  - Brother Ali
+  - C-Lance
+  - Cashus King
+  - Ceschi
+  - Chino XL
+  - Clear Soul Forces
+  - CunninLynguists
+  - Deacon The Villain
+  - Deniro Farrar
+  - Dilated Peoples
+  - El Gant
+  - Elzhi
+  - Evidence
+  - Factor Chandelier
+  - Felt
+  - Finn
+  - Homeboy Sandman
+  - Ill Conscious
+  - Jedi Mind Tricks
+  - Jericho Jackson
+  - K-Prez
+  - Ka
+  - Kail Problems
+  - Kristoff Krane
+  - Little Brother
+  - Locksmith
+  - LOGS
+  - Mello Music Group
+  - Mickey Factz
+  - Murs
+  - Open Mike Eagle
+  - P.O.S
+  - Pouya
+  - Ransom
+  - Rob Sonic
+  - Rome Streetz
+  - Sadistik
+  - Skyzoo
+  - Snook da Crook
+  - Stik Figa
+  - Sunspot Jonz
+  - Supastition
+  - Sweatshop Union
+  - The Grouch & Eligh
+  - Tonedeff
+  - Torae
+  - UFO Fev
+  - Zion I
+
+vaporwave: 15
+  - bl00dwave
+  - Blank Banshee
+  - Casa del Mirto
+  - Com Truise
+  - death's dynamic shroud
+  - Dreaming Diary
+  - Home
+  - Korizon
+  - Magic Sword
+  - Moss Of Aura
+  - NxxxxxS
+  - Surfing
+  - The Midnight
+  - The Northern Lights
+  - VAPERROR
+
+west coast hip hop: 5
+  - Dilated Peoples
+  - Kendrick Lamar
+  - KXNG Crooked
+  - Murs
+  - The Game
+
+witch house: 43
+  - akiaura
+  - BARNACLE BOI
+  - Brothel
+  - CASHFORGOLD
+  - Crim3s
+  - Crystal Castles
+  - Deadcrow
+  - Eastghost
+  - Emurse
+  - enjoii
+  - Ginseng
+  - Hnrk
+  - Juche
+  - Kap Bambino
+  - Klasey Jones
+  - Klimeks
+  - LONOWN
+  - Lorn
+  - LXST CXNTURY
+  - Mr.Kitty
+  - Mutrix
+  - MYSTXRIVL
+  - Noah B
+  - Pastel Ghost
+  - pathetic240px
+  - Pholo
+  - Purity Ring
+  - REMNANT.exe
+  - SALEM
+  - Shark4Sale
+  - Shlohmo
+  - Sidewalks and Skeletons
+  - Skeler
+  - Skit
+  - Snow Strippers
+  - Sorsari
+  - Tex Taiwan
+  - Tokyo Tears
+  - Tomkillsjerry
+  - Vandalism
+  - vowl.
+  - YOU LOVE HER
+  - Ytho
+
+yacht rock: 2
+  - Leo Sayer
+  - Steely Dan
