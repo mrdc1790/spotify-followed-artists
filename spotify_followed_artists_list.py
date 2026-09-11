@@ -4,6 +4,7 @@ import argparse
 from datetime import datetime
 from pathlib import Path
 
+from dotenv import load_dotenv
 from spotify_common import create_client, followed_artists
 
 
@@ -22,6 +23,7 @@ def export_artists(artists, output):
 
 
 def main():
+    load_dotenv()
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--output", type=Path)
     parser.add_argument("--reverse", action="store_true", help="Reverse API order, not chronological order")
