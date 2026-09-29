@@ -2,11 +2,14 @@
 
 import os
 
+from dotenv import load_dotenv
+
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
 
 def create_client(scope):
+    load_dotenv()
     missing = [name for name in ("SPOTIPY_CLIENT_ID", "SPOTIPY_CLIENT_SECRET")
                if not os.environ.get(name)]
     if missing:

@@ -27,7 +27,7 @@ $env:SPOTIPY_CLIENT_ID = "your-client-id"
 $env:SPOTIPY_CLIENT_SECRET = "your-client-secret"
 ```
 
-On macOS/Linux, use `export SPOTIPY_CLIENT_ID="..."` and `export SPOTIPY_CLIENT_SECRET="..."`. Optional `SPOTIPY_REDIRECT_URI` overrides the default callback. The scripts read environment variables directly; they do not load a `.env` file.
+On macOS/Linux, use `export SPOTIPY_CLIENT_ID="..."` and `export SPOTIPY_CLIENT_SECRET="..."`. Optional `SPOTIPY_REDIRECT_URI` overrides the default callback. Spotify commands also load a local `.env` file; values already set in your terminal take precedence.
 
 Authentication opens your browser and stores a local `.spotify_cache`. Credentials and token caches must stay out of Git. Importing the Python modules does not authenticate or change your account.
 
@@ -96,3 +96,22 @@ python -m unittest discover -s tests -v
 The tests cover pagination, genre parsing, missing statistics, Excel output, playlist batching, safe imports, and duplicate detection without contacting Spotify.
 
 The shared `spotify_common.py` and `playlist_tools.py` modules hold reusable logic. Existing PyCharm project configuration is included; local workspace settings, environments, caches, and new generated exports are ignored.
+
+## Repository map and common fixes
+
+| Entry point | Purpose |
+| --- | --- |
+| `spotify_followed_artists_list.py` | Export followed artists from Spotify |
+| `spotify_followed_artists_condensed_and_spreadsheet.py` | Convert an existing export locally |
+| `electronic_artists_edm.py`, `unique_artists.py` | Export genre groups and select names |
+| `playlist-40-artists.py`, `playlist-allEDM-artists.py` | Preview or create artist playlists |
+| `unsaveDuplicates.py` | Preview duplicate recordings before optional removal |
+
+Run commands from the repository root so relative input/output paths resolve predictably. Each entry point supports `--help`. Keep generated exports outside tracked snapshots by choosing explicit output paths.
+
+- **Missing credentials:** set both `SPOTIPY_CLIENT_ID` and `SPOTIPY_CLIENT_SECRET` in the same terminal. Alternatively, put both variables in a local `.env` file.
+- **Redirect mismatch:** the app dashboard and `SPOTIPY_REDIRECT_URI` must match exactly, including port and path.
+- **Forbidden endpoint:** check your app/account access and the API compatibility section above; changing a filename or output folder will not fix an API permission error.
+- **Local conversion only:** the text-to-Excel converter and JSON name selector do not need a Spotify login.
+
+Dependency versions are pinned in `requirements.txt`; install those before running the tests. Existing exports and genre snapshots are historical data, not a statement of your current library.
