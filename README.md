@@ -31,6 +31,8 @@ On macOS/Linux, use `export SPOTIPY_CLIENT_ID="..."` and `export SPOTIPY_CLIENT_
 
 Authentication opens your browser and stores a local `.spotify_cache`. Credentials and token caches must stay out of Git. Importing the Python modules does not authenticate or change your account.
 
+New Spotify apps run in development mode. The app owner must have Spotify Premium, and only up to five allowlisted Spotify users can make API requests. Add each user in the app's **Users Management** settings; users who are not allowlisted may complete login but their API calls return `403` errors. See Spotify's [quota-mode documentation](https://developer.spotify.com/documentation/web-api/concepts/quota-modes).
+
 ## Export and convert followed artists
 
 ```powershell
