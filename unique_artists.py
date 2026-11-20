@@ -28,15 +28,19 @@ def main():
     args = parser.parse_args()
     if args.output.suffix.lower() != ".txt":
         parser.error("--output must end in .txt")
+    json_output = args.output.with_suffix(".json")
+    input_path = args.input.resolve()
+    if any(output.resolve() == input_path for output in (args.output, json_output)):
+        parser.error("The output files must use a different path from the input mapping.")
     try:
         names = extract_names(json.loads(args.input.read_text(encoding="utf-8-sig")), args.genre)
     except (OSError, ValueError) as error:
         parser.error(str(error))
     args.output.write_text("".join(name + "\n" for name in names), encoding="utf-8")
-    args.output.with_suffix(".json").write_text(
+    json_output.write_text(
         json.dumps(names, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
-    print(f"Saved {len(names)} names to {args.output} and {args.output.with_suffix('.json')}")
+    print(f"Saved {len(names)} names to {args.output} and {json_output}")
 
 
 if __name__ == "__main__":
