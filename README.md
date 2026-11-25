@@ -1,6 +1,8 @@
 # Spotify Followed Artists
 
-Python command-line tools to export followed artists, explore their genres, build playlists, and review duplicate saved recordings.
+Turn a Spotify following list into reusable artist exports, genre groups, and playlist previews. These Python tools cover paginated collection, local text-to-Excel conversion, playlist creation with a dry-run option, and preview-first review of duplicate saved recordings.
+
+[Shared Spotify client and export helpers](spotify_common.py) · [Playlist tools](playlist_tools.py) · [Offline tests](tests/test_tools.py)
 
 ## Setup
 
