@@ -46,6 +46,24 @@ Use the actual filename printed by the first command. The converter writes a nam
 
 The exporter preserves API order. `--reverse` reverses that order, but neither order represents verified follow dates. Unavailable follower counts and popularity appear as `N/A` in text and blank cells in Excel. Use `--output filename.txt` to select an export filename.
 
+### Save and compare snapshots
+
+Run the export on two different days or whenever you want to record your following list:
+
+```powershell
+python spotify_followed_artists_list.py --snapshot
+```
+
+Each run writes `artists.json` and `artists.csv` to a new, Git-ignored folder under `output/` and prints its path. Both include Spotify artist IDs, names, URLs, genres and available statistics, plus a UTC capture timestamp. Use the JSON file for comparisons or to get the exact artist names. The CSV includes a UTF-8 BOM for Excel and prefixes formula-like names with an apostrophe. Its genre column is a JSON array when Spotify supplies genres and blank when it does not.
+
+Compare any two or more JSON snapshots from the same Spotify account. Replace the example paths with the paths printed by your exports:
+
+```powershell
+python artist_snapshots.py output/followed-artists-20261125T120000000000Z/artists.json output/followed-artists-20261202T120000000000Z/artists.json
+```
+
+The comparison runs offline, sorts snapshots by capture time, and matches artists by Spotify ID. It reports follows, unfollows, and genre changes for each consecutive pair. Genre comparisons require data in both snapshots. The second timestamp in each pair is when a change was first observed in that series. An exact follow or unfollow time is unavailable. Older text and Excel exports can still be used with the existing tools.
+
 ## Explore genres and artist names
 
 ```powershell
@@ -97,7 +115,7 @@ API errors are allowed to stop execution rather than silently publishing incompl
 python -m unittest discover -s tests -v
 ```
 
-The tests cover pagination, genre parsing, missing statistics, Excel output, playlist batching, safe imports, and duplicate detection without contacting Spotify.
+The tests cover pagination, genre parsing, missing statistics, Excel output, snapshot comparisons, playlist batching, safe imports, and duplicate detection without contacting Spotify. GitHub Actions runs the same suite on pushes and pull requests on Ubuntu and Windows with Python 3.10 and 3.13.
 
 The shared `spotify_common.py` and `playlist_tools.py` modules hold reusable logic. Existing PyCharm project configuration is included; local workspace settings, environments, caches, and new generated exports are ignored.
 
