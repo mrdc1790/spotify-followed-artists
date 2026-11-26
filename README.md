@@ -1,6 +1,8 @@
 # Spotify Followed Artists
 
-Python command-line tools to export followed artists, explore their genres, build playlists, and review duplicate saved recordings.
+Turn a Spotify following list into reusable artist exports, genre groups, and playlist previews. These Python tools cover paginated collection, local text-to-Excel conversion, playlist creation with a dry-run option, and preview-first review of duplicate saved recordings.
+
+[Shared Spotify client and export helpers](spotify_common.py) · [Playlist tools](playlist_tools.py) · [Offline tests](tests/test_tools.py)
 
 ## Setup
 
@@ -53,7 +55,7 @@ python hipHopArtists.py Lil --output followed_artists.txt
 ```
 
 - `electronic_artists_edm.py` groups **all** followed artists by genre. It writes `different_genres.json`, `genres.txt`, and `genres-refined.txt`. Artists may belong to multiple genres; deduplication happens within each genre.
-- `unique_artists.py` reads that JSON mapping and writes deduplicated names as both text and JSON. `--genre` matches a genre substring without case sensitivity. Omit it to include every genre. The default output filename `edm-artists.txt` does not itself apply an EDM filter.
+- `unique_artists.py` reads that JSON mapping and writes deduplicated names as both text and JSON. `--genre` matches a genre substring without case sensitivity. Omit it to include every genre. The default output filename `edm-artists.txt` does not itself apply an EDM filter. Choose an output name whose generated `.json` path differs from the input mapping.
 - `hipHopArtists.py` matches a name prefix, not a hip-hop genre. Its historical filename is retained.
 
 The three genre files in the repository are a saved snapshot. The JSON and refined report were rebuilt from the supplied `genres.txt`; they are not live Spotify data. Running the genre exporter without `--output-dir` replaces the snapshots in the current directory.
