@@ -17,3 +17,6 @@ followed_artists.txt
 .idea/*
 .idea/shelf/
 .ruff_cache/
+
+.codex/*
+.dekko/*
