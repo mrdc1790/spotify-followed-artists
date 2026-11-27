@@ -4,6 +4,8 @@ Turn a Spotify following list into reusable artist exports, genre groups, and pl
 
 [Shared Spotify client and export helpers](spotify_common.py) · [Playlist tools](playlist_tools.py) · [Offline tests](tests/test_tools.py)
 
+The personal [live-set tracking guide](docs/LIVE_SET_TRACKING.md) covers the separate Google Sheets workflow and adding a new year.
+
 ## Setup
 
 Use Python 3.10 or newer. From the project folder, create an environment and install the tested dependencies:
